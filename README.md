@@ -25,7 +25,7 @@ To analyze the reviews of various restaurants at College Park written by the cus
 DROP Tables command for each table dropping all the existing data for relations in the database
 ![image](https://github.com/user-attachments/assets/c9ee09fb-eaac-4780-b1a9-9dcafaffb0f1)
 
-Creating [FoodAdvisor.Restaurant] table using the CREATE TABLE command and defined the column/attributes names and their data types inside the command. This was done for all the other tables/relations as well.
+Creating [FoodAdvisor.Restaurant] table using the CREATE TABLE command to define the column/attributes names and their data types inside the command.
 ![image](https://github.com/user-attachments/assets/a103b587-e2e8-45aa-b2d6-0e4a1b202dbf)
 
 Following are the Relation, their attributes, data type and key constraints as defined in the database:
