@@ -2,6 +2,7 @@
 
 Data source: Tripadvisor
 References: https://www.tripadvisor.com/Restaurants-g41078-College_Park_Maryland.html
+
 Tools: Microsoft SQL Server Management Studio, LucidChart
 
 ## Mission Statement:
