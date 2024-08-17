@@ -37,24 +37,31 @@ Inserting the data into the tables created, which was collected manually from tr
 ### DML:
 
 What are the restaurants that serve ‘American’ cuisine and what is their cuisine highlight?
+
 ![image](https://github.com/user-attachments/assets/08e9eee3-c6ea-470f-b4f3-4c55b545d0ce)
 
 Which restaurant serves 'Sushi' and has the best consumer ratings?
+
 ![image](https://github.com/user-attachments/assets/3d9fd435-c8ec-4451-babe-911712bc6608)
 
 What are the restaurants that offer late night service and till what time will they be operating?
+
 ![image](https://github.com/user-attachments/assets/711ee9ee-fcdb-43ad-9b0d-87ffa784947b)
 
 Which are the best affordable restaurants that offer takeout options for dinner?
+
 ![image](https://github.com/user-attachments/assets/9ae289d5-64a1-4c09-ba93-5280fe7315e0)
 
 Which establishments in College Park offer Bar service?
+
 ![image](https://github.com/user-attachments/assets/6f4b9228-7d60-4013-90fe-23dc74ee844f)
 
 What are the latest reviews for every restaurant?
+
 ![image](https://github.com/user-attachments/assets/bd3ac55c-af94-4f3d-b9c2-634ab3727899)
 
 Which mid-range restaurants offer lunch service?
+
 ![image](https://github.com/user-attachments/assets/20bc2eaf-d95a-4e46-90f1-d3a64f5d9d1f)
 
 
