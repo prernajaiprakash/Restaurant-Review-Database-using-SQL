@@ -31,8 +31,6 @@ Creating [FoodAdvisor.Restaurant] table using the CREATE TABLE command to define
 Following are the Relation, their attributes, data type and key constraints as defined in the database:
 ![image](https://github.com/user-attachments/assets/43e0a7bb-314a-4dde-96ce-015b86f96322)
 
-Inserting the data into the tables created, which was collected manually from tripadvisor’s website. This was done using the INSERT INTO command on sql for every relation.
-![image](https://github.com/user-attachments/assets/9e3fa053-4c1a-49a2-bff7-aa50e642708c)
 
 ### DML:
 
